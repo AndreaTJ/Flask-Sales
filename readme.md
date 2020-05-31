@@ -1,7 +1,8 @@
-# Lista de ventas globales
+# List of Global Sales. 
 
-## Instalación 
-Ejecutar
+## Installation
+Run 
+
 ```
 pip install -r requirements.txt
 ```
