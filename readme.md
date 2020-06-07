@@ -1,6 +1,4 @@
-# List of Global Sales. 
-
-# currently under development
+# List of Global Sales. *currently under development*
 
 ## Installation
 Run 
